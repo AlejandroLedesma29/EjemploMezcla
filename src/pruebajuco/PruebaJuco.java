@@ -16,6 +16,8 @@ public class PruebaJuco {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Julian y Jeronimo");
+        System.out.println("Julian Alejandro Ledesma");
     }
     
 }
