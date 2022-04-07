@@ -11,4 +11,5 @@ package pruebajuco;
  */
 public class Jeronimo {
     int edad = 18;
+    String mensaje= soy gey;
 }
