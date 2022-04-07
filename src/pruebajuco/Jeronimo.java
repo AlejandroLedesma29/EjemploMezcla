@@ -10,5 +10,5 @@ package pruebajuco;
  * @author Jacobo
  */
 public class Jeronimo {
-    
+    int edad = 18;
 }
